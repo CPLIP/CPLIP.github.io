@@ -1,0 +1,294 @@
+{
+    "A": {
+        "prompts": [
+            "Advanced breast Cancer",
+            "Antibody-Dependent cellular cytotoxicity",
+            "Adenocarcinoma",
+            "Adenoma benign cancer",
+            "Adenomatous polyp",
+            "Adenocarcinoma of the lung",
+            "Atypical glandular cells",
+            "Acinar pattern",
+            "adenocarcinoma",
+            "Acinar growth pattern",
+            "Acinar predominant histological subtype",
+            "Alanine aminotransferase / alanine transaminase",
+            "Anaplastic Large-cell Lymphoma",
+            "Acute lymphocytic leukemia",
+            "Adipose tissue/adipocytes",
+            "Acute myeloid leukemia",
+            "Anaplastic",
+            "Alveolar rhabdomyosarcoma",
+            "Alveolar Soft Part Sarcoma",
+            "Anaplastic Thyroid Cancer"
+        ]
+    },
+    "B": {
+        "prompts": [
+            "B-Cell Acute lymphoblastic leukemia",
+            "Breast cancer",
+            "Basal cell carcinoma",
+            "B-cell lymphoma",
+            "Benign tissue",
+            "Benign glands",
+            "Benign colon tissue",
+            "Bladder cancer including melonoma",
+            "Benign rectal tissue",
+            "Benign essential blepharospasm",
+            "Bone marrow",
+            "BRCA1 and BRCA2",
+            "Brain Tumor",
+            "Breast invasive lobular carcinoma",
+            "Benign multi-cystic peritoneal mesothelioma",
+            "Breast invasive ductal carcinoma"
+        ]
+    },
+    "C": {
+        "prompts": [
+            "Cancer",
+            "carcinoma",
+            "Cancer staging",
+            "Carcinoma in situ",
+            "Carotid body tumor",
+            "Clear cell renal cell carcinoma",
+            "Carcinoid tumor",
+            "Carcinoma In Situ",
+            "Chronic granulocytic leukemia",
+            "Cervical intraepithelial neoplasia",
+            "Chronic inflammatory bowel disease",
+            "Chromophobe renal cell carcinoma",
+            "Cirrhosis",
+            "Cell-mediated immunity",
+            "Chronic myeloid leukemia",
+            "Chronic myelomonocytic leukemia",
+            "Cytomegalovirus",
+            "Comed—comedocarcinoma",
+            "Colectomy",
+            "Colitis",
+            "Colon polyp",
+            "Colonoscopy",
+            "Cancer-associated stroma",
+            "Coloncancer adenocarcinoma debris"
+        ]
+    },
+    "D": {
+        "prompts": [
+            "Diffuse histolytic lymphoma",
+            "Distant recurrence",
+            "Debris or dead cell",
+            "Diffuse large B-cell lymphoma",
+            "Dukes staging system",
+            "Dysplasia"
+        ]
+    },
+    "E": {
+        "prompts": [
+            "Early-Stage invasive breast cancer",
+            "Epstein-barr virus",
+            "Esophageal cancer",
+            "Epidermal growth Factor Receptor",
+            "Extra skeletal myxoid chondrosarcoma",
+            "Estrogen receptor"
+        ]
+    },
+    "F": {
+        "prompts": [
+            "Formalin fixed paraffin embedded tissues",
+            "Fluorescence In Situ hybridization",
+            "Fibrosis"
+        ]
+    },
+    "G": {
+        "prompts": [
+            "Gastrointestinal stromal tumors",
+            "Gastrointestinal cancer",
+            "Gleason score",
+            "Gleason score"
+        ]
+    },
+    "H": {
+        "prompts": [
+            "Hand foot syndrome",
+            "Hepatocellular carcinoma",
+            "Hairy cell leukemia",
+            "Hodgkin’s disease",
+            "Hyperplasia",
+            "Human epidermal growth factor receptor 2",
+            "Hereditary nonpolyposis colon cancer",
+            "Human immunodeficiency virus",
+            "Hereditary nonpolyposis colon cancer",
+            "Human T-cell Leukemia",
+            "Head and neck squamous cell carcinoma",
+            "Human papillomavirus",
+            "Hidradenoma papiliferum"
+        ]
+    },
+    "I": {
+        "prompts": [
+            "Immunohistochemistry",
+            "Invasive cancer",
+            "In Situ hybridization",
+            "Invasive ductal carcinoma of the breast",
+            "Invasive carcinoma of the breast",
+            "Invasive lobular carcinoma",
+            "Inflammatory cells",
+            "Immune cells",
+            "Inflammatory bowel diases"
+        ]
+    },
+    "J": {
+        "prompts": [
+            
+        ]
+    },
+    "K": {
+        "prompts": [
+            
+        ]
+    },
+    "L": {
+        "prompts": [            
+            "Langerhan’s cell histiocytosis",
+            "lentigo maligna melanoma",
+            "Lung cancer",
+            "Lung squamous cell carcinoma",
+            "Leipidic pattern adenocarcinoma",
+            "Lymphoid infiltrate",
+            "Leipidic predominant histologuical subtype",
+            "Lymphocytes",
+            "Liver cancer"
+        ]
+    },
+    "M": {
+        "prompts": [
+            "Malignant",
+            "Mouth and throat cancer",
+            "Mastectomy",
+            "Myelodysplastic syndromes",
+            "Multiple endocrine neoplasia",
+            "Malignant colon tissue",
+            "Malignant rectal tissue",
+            "Mucus/Mucin",
+            "Metastasis",
+            "Muscularis propria",
+            "Mucinous carcinoma",
+            "Micropappillary pattern",
+            "Micropappillary pattern adenocarcinoma",
+            "Micropappillary growth pattern",
+            "Micropappillary predominant histological subtype",
+            "Muscularis mucosa",
+            "Metastatic cells",
+            "Malignant melanoma",
+            "Malignant peripheral nerve Sheath tumor",
+            "Malignant rhabdoid tumor",
+            "Microsatellite instability",
+            "Microsatellite stability"
+        ]
+    },
+    "N": {
+        "prompts": [
+            "Normal adjacent tissue",
+            "Nevoid basal cell carcinoma Syndrome",
+            "Non-Hodgkin’s lymphoma",
+            "Nodular melanoma",
+            "Non melanoma skin ccancer",
+            "Nasopharyngeal cancer",
+            "Node-negative breast cancer",
+            "Node-Positive breast Cancer",
+            "Non-Small cell lung cancer",
+            "Necrosis",
+            "Neoplasi",
+            "Neoplasm",
+            "Neutrophils"
+        ]
+    },
+    "O": {
+        "prompts": [
+            "Osteogenic Sarcoma",
+            "Ovarian cancer"
+        ]
+    },
+    "P": {
+        "prompts": [
+            "Pathologic (or Histologic) grade well differentiated",
+            "Pathologic (or Histologic) Grade moderately differentiated",
+            "Pathologic (or Histologic) grade poorly differentiated",
+            "pathologic (or Histologic) grade undifferentiated",
+            "Pathologic stage",
+            "Peripheral blood mononuclear cells",
+            "Parkinson’s disease",
+            "Primary lymphoma of bone",
+            "Polyp",
+            "Progesterone receptor",
+            "Prostate-Specific antigen",
+            "Prostrate cancer",
+            "Prostrate cancer with gleason grade 3",
+            "Prostrate cancer with Gleason grade 4",
+            "Prostrate cancer with gleason grade 5",
+            "Prostrate adenocarcinoma",
+            "Prostatic adenocarcinoma",
+            "Papillary renal cell carcinoma",
+            "Papillary pattern adenocarcinoma",
+            "Pancreatic cancer",
+            "Papillary growth pattern",
+            "Papillary tumor",
+            "Papilloma"
+        ]
+    },
+    "R": {
+        "prompts": [
+            "Renal cell carcinoma",
+            "Renal cell carcinoma of chromophore type",
+            "Rhabdomyosarcoma"
+        ]
+    },
+    "S": {
+        "prompts": [
+            "Sarcoma",
+            "Squamous Cell Carcinoma",
+            "Small Cell Lung Cancer",
+            "Secondary Score",
+            "Synchronous cancer",
+            "Solid pattern adenocarcinoma",
+            "Solid growth pattern",
+            "Smooth muscle",
+            "Stromal tissue",
+            "Stromal cells",
+            "Skin cancer",
+            "Stroma associated tumor",
+            "Sialadenoma papilliferum"
+        ]
+    },
+    "T": {
+        "prompts": [
+            "Transitional cell carcinoma",
+            "Thrombocytopenia",
+            "classification of malignant tumors",
+            "Tumor",
+            "Tumor grade",
+            "Tumor-associated stroma",
+            "Tumor infiltrating lymphocytes",
+            "Tumor epithelial tissue",
+            "Testicular cancer"
+        ]
+    },
+    "U": {
+        "prompts": [
+            "Ulcerative colitis",
+            "Urinary bladder Cancer",
+            "Urinary bladder adenocarcinoma",
+            "Urinary bladder tissue"
+        ]
+    },
+    "W": {
+        "prompts": [
+            "White Blood cell count",
+            "Waldenstrom’s macroglobulinemia"
+        ]
+    },
+    "Y": {
+        "prompts": [
+            "Yolk sac Tumor"
+        ]
+    }
+}
